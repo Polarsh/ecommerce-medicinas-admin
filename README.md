@@ -5,6 +5,15 @@ Este proyecto es el **Panel de Administración** para gestionar una **farmacia o
 Puedes acceder al panel de administración en la siguiente URL:  
 [**Farmacia Online - Admin Panel**](https://farmacia-online-admin-dybsm98.web.app/)
 
+## Pruebas
+
+Puedes usar las siguientes credenciales de prueba para ingresar a la aplicación:
+
+```
+Email: prueba@dybsm98.com
+Password: prueba
+```
+
 ## Características Principales
 
 - **CRUD de Productos**: Gestión completa de productos farmacéuticos, permitiendo la creación, edición, eliminación y visualización de productos almacenados en **Firestore**.
